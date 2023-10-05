@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTOMAT", "OTOMAT\OTOMAT.csproj", "{73AD27C6-38C1-4068-9FD6-8CD2CC23BABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AD27C6-38C1-4068-9FD6-8CD2CC23BABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AD27C6-38C1-4068-9FD6-8CD2CC23BABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AD27C6-38C1-4068-9FD6-8CD2CC23BABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AD27C6-38C1-4068-9FD6-8CD2CC23BABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01DCBB8-1FDB-4074-A20D-D3021BA75FB5}
+	EndGlobalSection
+EndGlobal
